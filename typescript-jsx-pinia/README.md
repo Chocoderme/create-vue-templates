@@ -1,4 +1,4 @@
-# typescript-router-vitest-auto-import
+# typescript-jsx-pinia
 
 This template should help get you started developing with Vue 3 in Vite.
 
@@ -37,10 +37,4 @@ pnpm dev
 
 ```sh
 pnpm build
-```
-
-### Run Unit Tests with [Vitest](https://vitest.dev/)
-
-```sh
-pnpm test:unit
 ```
